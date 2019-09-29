@@ -1,2 +1,6 @@
 VPC : https://cloud.google.com/vpc/docs/vpc
+
+Tutorials:
+https://www.terraform.io/docs/providers/google/getting_started.html
+https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform
       
